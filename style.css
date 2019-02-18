@@ -1,0 +1,29 @@
+#canvas {
+    width: 893px;
+    height: 553px;
+    border: 1px solid #000;
+    position: relative;
+
+}
+#dvere{
+    position: absolute;
+    top: 396px;
+    left: 413px;
+    
+}
+#okna{
+    position: absolute;
+    top: 123px;
+    left: 149px;
+}
+#strecha{
+    position: absolute;
+    top: 0;
+    left: 44px;
+}
+#vrata{
+    position: absolute;
+    top: 361px;
+    left: 120px;
+
+}
